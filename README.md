@@ -1,3 +1,3 @@
 # MockItem
 
-A description of this package.
+Lightweight data structures and random content to use while building interfaces.
